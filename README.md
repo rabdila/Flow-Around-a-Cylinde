@@ -1,7 +1,10 @@
-# Mes Simulations
+# My Simulations
 
-### 🎞️ Aperçu rapide — Re = 250
+## 🌀 Flow Around a Cylinder – Re = 250
 
-![Simulation GIF rapide](https://github.com/username/Mes-Simulations/raw/main/assets/images/re250.gif)
+| Velocity | Pressure |
+|----------|----------|
+| ![Velocity Re250](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/V_re250.gif) | ![Pressure Re250](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/P_re250.gif) |
+
 
 
