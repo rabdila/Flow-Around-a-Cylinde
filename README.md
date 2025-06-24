@@ -16,7 +16,8 @@
 
 | Velocity | Pressure |
 |----------|----------|
-| ![Velocity Re10000](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/V_re10000.gif) | ![Pressure Re10000](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/P_re10000.gif) |
+| ![Velocity Re1000](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/V_re1000.gif) | ![Pressure Re250](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/P_re1000.gif) |
+
 
 
 
