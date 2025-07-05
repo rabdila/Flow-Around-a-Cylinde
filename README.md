@@ -30,9 +30,20 @@
 
 | Geometry | u_y(m)|
 |----------|-------------|
-| ![Geometry – Cook’s Membrane](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/geometry.png) | ![Deformation – Cook’s Membrane](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/.gif) |
+| ![Geometry – Cook’s Membrane](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/geometry.png) | ![Deformation – Cook’s Membrane](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/membrane.gif) |
 
 **Description:**  
 Neo-Hookean material with Young’s modulus **E = 250 Pa** and density **ρ = 1 kg/m³**.  
 Initial traction: **t₀ = (0, 6.25) Pa**. Plane strain condition showing large deformation behavior.
+
+## 🧩 Plane Strain Cook’s Membrane
+
+| Geometry | u_x(m)|
+|----------|-------------|
+| ![Geometry – Cook’s Membrane](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/Beam_geometry.png) | ![Deformation – Cook’s Membrane](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/Beam3d.gif) |
+
+**Description:**  
+Neo-Hookean material with Young’s modulus **E = 250 Pa** and density **ρ = 1 kg/m³**.  
+Initial traction: **t₀ = (0, 6.25) Pa**. Plane strain condition showing large deformation behavior.
+
 
