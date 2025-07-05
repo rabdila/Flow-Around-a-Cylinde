@@ -22,11 +22,6 @@ These simulations were carried out as part of my PhD research. The results were 
 | ![Velocity Re1000](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/V_re1000.gif) | ![Pressure Re250](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/P_re1000.gif) |
 
 
-## 🌀 Flow Around a Cylinder – Re = 10000
-
-| Velocity | Pressure |
-|----------|----------|
-| ![Velocity Re1000](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/V_re1000.gif) | ![Pressure Re250](https://raw.githubusercontent.com/rabdila/Flow-Around-a-Cylinde/main/assets/images/P_re1000.gif) |
 
 
 ## 🧩 Plane Strain Cook’s Membrane
